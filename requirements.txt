@@ -5,3 +5,4 @@ scikit-learn
 numpy
 seaborn
 scikit-learn-extra
+setuptools>=65.0.0
